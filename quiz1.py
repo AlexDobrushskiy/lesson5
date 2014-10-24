@@ -84,8 +84,13 @@ links = [
 # make the function query() return the number of votes for the link whose ID is
 # 15
 
+
 def query():
     pass
     
 
 print query()    
+
+# second:
+# make the function query() return a list of Links submitted by user 62443, by
+# submission time ascending
